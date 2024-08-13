@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("groups.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a77361440af3e58b866929ec980b6edc68601116")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5ff2e7f865aaa847b8c752d07a4046aa312d42")]
 [assembly: System.Reflection.AssemblyProductAttribute("groups.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("groups.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
