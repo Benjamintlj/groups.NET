@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/benjaminlewis-jones/Documents/Projects/DotNet/groups.NET/groups.NET
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/benjaminlewis-jones/Documents/Projects/DotNet/groups.NET/groups.NET/Views/Club/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2x1Yi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/benjaminlewis-jones/Documents/Projects/DotNet/groups.NET/groups.NET/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/benjaminlewis-jones/Documents/Projects/DotNet/groups.NET/groups.NET/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/benjaminlewis-jones/Documents/Projects/DotNet/groups.NET/groups.NET/Views/Race/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmFjZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/benjaminlewis-jones/Documents/Projects/DotNet/groups.NET/groups.NET/Views/Shared/Error.cshtml]
